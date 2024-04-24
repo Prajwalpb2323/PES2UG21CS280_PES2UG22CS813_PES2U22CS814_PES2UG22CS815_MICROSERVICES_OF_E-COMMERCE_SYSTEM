@@ -1,27 +1,48 @@
-# EcommProject
+E-Commerce Microservices
+Welcome to our E-Commerce Microservices project repository! This project aims to provide a scalable and resilient architecture for an e-commerce system using microservices. We leverage Docker for containerization, Kubernetes for orchestration, and Jenkins for continuous integration and deployment.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
-## Development server
+Introduction
+In the modern world of e-commerce, scalability, reliability, and agility are key factors for success. This project addresses these requirements by implementing an architecture based on microservices. Each microservice focuses on a specific aspect of the e-commerce system, allowing for independent development, deployment, and scaling.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Features
+Microservices Architecture: Decompose the e-commerce system into smaller, manageable services.
+Containerization with Docker: Utilize Docker to package each microservice and its dependencies into a container.
+Orchestration with Kubernetes: Deploy and manage containers at scale with Kubernetes for increased flexibility and reliability.
+Continuous Integration and Deployment with Jenkins: Automate the build, test, and deployment process with Jenkins for rapid delivery and feedback.
+Technologies Used
+Docker
+Kubernetes
+Jenkins
+[Add any additional technologies here]
+Getting Started
+Prerequisites
+Ensure you have the following installed:
 
-## Code scaffolding
+Docker
+Kubernetes
+Jenkins
+[List any additional prerequisites]
+Installation
+Clone this repository:
+bash
+Copy code
+git clone https://github.com/your-username/e-commerce-microservices.git
+cd e-commerce-microservices
+[Add any additional installation steps here]
+Usage
+[Provide instructions on how to use the project]
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Deployment
+[Describe how to deploy the microservices using Kubernetes]
 
-## Build
+Continuous Integration and Deployment
+[Jenkins pipeline configuration and setup]
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Contributing
+MANOJ:PES2UG21CS280 -> FRONTEND OF THE APPLICATION.
+OMPRAKASH:PES2UG22CS813 -> USER MANAGEMENT
+PRAJWAL:PES2UG22CS814->ORDER MANAGEMENT
+PRUTHVIRAJ T:PES2UG22CS815 ->PRODUCT MANAGEMENT
+License
+[Indicate the license under which the project is distributed]
